@@ -1,9 +1,10 @@
 # Projeto 1 - Calculadora
 
 Integrantes:
-- Nome / RM
-- Nome / RM
-- Nome / RM
+- Matheus Guimarães Rosa / rm567912
+- Lucas Shida Rodrigues da Costa / rm568194
+- Pedro Henrique Pinheiro Falchi / rm566967
+- Sérgio Henrique da Silva Santos / rm567254
 
 Projeto Windows Forms em C# para uma calculadora básica semi-científica.
 
